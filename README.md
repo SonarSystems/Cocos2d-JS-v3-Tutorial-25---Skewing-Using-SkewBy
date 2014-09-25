@@ -1,4 +1,4 @@
-Cocos2d-JS-v3-Tutorial-25---Skewing-Using-SkewBy
+Cocos2d-JS v3 Tutorial 25 - Skewing Using SkewBy
 ================================================
 
-Code for the following video tutorial 
+Code for the following video tutorial http://youtu.be/PQAoIzjwCZ0
